@@ -1,0 +1,28 @@
+{
+  "name": "id3-genre",
+  "version": "0.0.0",
+  "description": "Map of ID3 \"Genre\" field names to byte number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/id3-genre.git"
+  },
+  "keywords": [
+    "id3",
+    "genre",
+    "metadata",
+    "byte",
+    "convert",
+    "id3v1",
+    "id3v2"
+  ],
+  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TooTallNate/id3-genre/issues"
+  },
+  "homepage": "https://github.com/TooTallNate/id3-genre"
+}
