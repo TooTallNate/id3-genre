@@ -1,6 +1,6 @@
 {
   "name": "id3-genre",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Map of ID3 \"Genre\" field names to byte number",
   "main": "index.js",
   "scripts": {
