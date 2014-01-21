@@ -36,5 +36,5 @@ function toString (num) {
 
 function toByte (str) {
   var index = exports.genres.indexOf(str);
-  return -1 === index ? null : exports.genres[index];
+  return -1 === index ? null : index;
 }
