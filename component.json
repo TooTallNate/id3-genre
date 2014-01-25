@@ -1,0 +1,23 @@
+{
+  "name": "id3-genre",
+  "repo": "TooTallNate/id3-genre",
+  "description": "Map of ID3 \"Genre\" field names to byte number",
+  "version": "0.1.0",
+  "keywords": [
+    "id3",
+    "genre",
+    "metadata",
+    "byte",
+    "convert",
+    "id3v1",
+    "id3v2"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "genres.json"
+  ]
+}
