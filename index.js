@@ -4,6 +4,8 @@
  */
 
 exports = module.exports = genre;
+exports.toByte = toByte;
+exports.toString = toString;
 exports.genres = require('./genres');
 
 /**
